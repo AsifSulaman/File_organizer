@@ -38,13 +38,6 @@ Edit the `CATEGORIES` dictionary at the top of `file_organizer.py` to add or cha
 - Only files directly inside the target folder are moved; existing subfolders are left untouched.
 - Move the script out of the target folder first, or it will organize itself into `Code/`.
 
-## Roadmap
-
-- [ ] Log moved files and add `--undo`
-- [ ] Organize by modified date
-- [ ] Recursive mode
-- [ ] External `config.json` for categories
-
 ## License
 
 MIT
